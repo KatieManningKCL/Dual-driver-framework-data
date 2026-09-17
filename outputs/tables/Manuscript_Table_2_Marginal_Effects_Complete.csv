@@ -1,0 +1,11 @@
+﻿Independent Variables & Model Stats,(1) Overall NbS - Attribution Only,(2) Overall NbS - Frequency Only,(3) Overall NbS - Full Model,(4) Individual NbS - Attribution Only,(5) Individual NbS - Frequency Only,(6) Individual NbS - Full Model,(7) Collaborative NbS - Attribution Only,(8) Collaborative NbS - Frequency Only,(9) Collaborative NbS - Full Model
+CC Attribution: Partly,0.403*** (0.097),,0.410*** (0.096),0.405*** (0.106),,0.414*** (0.104),5.620 (nan),,2.884 (3252.548)
+CC Attribution: Mainly,0.422*** (0.099),,0.364*** (0.102),0.418*** (0.108),,0.373*** (0.110),5.656 (nan),,2.860 (3252.548)
+Event Freq: Once in 5 years,,-0.136 (0.115),-0.200* (0.110),,-0.149 (0.126),-0.214* (0.122),,-3.082 (10825.332),-2.670 (2995.847)
+Event Freq: Every 2-3 years,,0.018 (0.102),-0.037 (0.101),,0.019 (0.112),-0.036 (0.112),,0.247 (0.152),0.223 (0.147)
+Event Freq: Once a year,,0.128 (0.103),0.042 (0.103),,0.086 (0.111),0.001 (0.112),,0.246 (0.150),0.211 (0.146)
+Event Freq: >Once a year,,0.387*** (0.149),0.307** (0.143),,0.268** (0.133),0.190 (0.133),,0.385*** (0.144),0.355** (0.139)
+Observations,144,144,144,144,144,144,144,144,144
+Pseudo_R2,0.095,0.095,0.186,0.079,0.056,0.132,0.054,0.141,0.183
+AIC,163.3,167.3,155.6,172.2,180.3,170.5,140.2,131.8,129.9
+BIC,172.2,182.2,176.4,181.1,195.2,191.3,149.1,146.7,150.7

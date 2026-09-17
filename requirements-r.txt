@@ -1,0 +1,16 @@
+# R packages used by code/NbS_TUSSIE.R
+readxl
+dplyr
+ggplot2
+forcats
+FactoMineR
+factoextra
+gplots
+tidyverse
+stargazer
+corrplot
+scales
+
+# Optional
+fastlogitME
+rstudioapi

@@ -1,0 +1,23 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Python leftovers
+__pycache__/
+.ipynb_checkpoints/
+
+# Large local-only files
+*.tif
+*.tiff
+*.ai
+*.psd
+*.rar
+*.zip

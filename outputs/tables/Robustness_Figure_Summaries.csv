@@ -1,0 +1,37 @@
+﻿Figure,Metric,Value,Cluster,MeanStability,MedianStability,Q1,Q3,N,Outcome,Variable,Coef,SE,Stars,Lower,Upper
+Cluster advanced,Bootstrap median ARI,0.8667565303030412,,,,,,,,,,,,,
+Cluster advanced,Bootstrap 2.5%,0.7342520208015154,,,,,,,,,,,,,
+Cluster advanced,Bootstrap 97.5%,0.9561204834326102,,,,,,,,,,,,,
+Cluster advanced,,,0.0,0.9506802721088436,1.0,0.9464285714285714,1.0,63.0,,,,,,,
+Cluster advanced,,,1.0,0.9723999999999999,1.0,0.9889285714285714,1.0,50.0,,,,,,,
+Cluster advanced,,,2.0,0.9207142857142857,0.9985714285714286,0.9803571428571428,1.0,18.0,,,,,,,
+Dual-driver advanced,,,,,,,,,Overall NbS,Climate attribution: Partly,0.416,0.105,3.0,0.2102,0.6217999999999999
+Dual-driver advanced,,,,,,,,,Individual NbS,Climate attribution: Partly,0.414,0.116,3.0,0.18663999999999997,0.6413599999999999
+Dual-driver advanced,,,,,,,,,Collaborative NbS,Climate attribution: Partly,0.094,0.163,0.0,-0.22547999999999999,0.41347999999999996
+Dual-driver advanced,,,,,,,,,Overall NbS,Climate attribution: Mainly,0.344,0.117,3.0,0.11467999999999998,0.5733199999999999
+Dual-driver advanced,,,,,,,,,Individual NbS,Climate attribution: Mainly,0.347,0.127,3.0,0.09807999999999997,0.59592
+Dual-driver advanced,,,,,,,,,Collaborative NbS,Climate attribution: Mainly,0.08,0.164,0.0,-0.24144,0.40144
+Dual-driver advanced,,,,,,,,,Overall NbS,Exposure: Occasional,0.077,0.087,0.0,-0.09351999999999998,0.24751999999999996
+Dual-driver advanced,,,,,,,,,Individual NbS,Exposure: Occasional,0.107,0.095,0.0,-0.0792,0.2932
+Dual-driver advanced,,,,,,,,,Collaborative NbS,Exposure: Occasional,0.347,0.16,2.0,0.033399999999999985,0.6606
+Dual-driver advanced,,,,,,,,,Overall NbS,Exposure: Frequent,0.258,0.076,3.0,0.10904000000000003,0.40696
+Dual-driver advanced,,,,,,,,,Individual NbS,Exposure: Frequent,0.223,0.082,3.0,0.06228,0.38372
+Dual-driver advanced,,,,,,,,,Collaborative NbS,Exposure: Frequent,0.392,0.152,2.0,0.09408000000000005,0.68992
+Dual-driver advanced,,,,,,,,,Overall NbS,Income: Medium,0.127,0.08,0.0,-0.029799999999999993,0.2838
+Dual-driver advanced,,,,,,,,,Individual NbS,Income: Medium,0.145,0.084,1.0,-0.01964000000000002,0.30964
+Dual-driver advanced,,,,,,,,,Collaborative NbS,Income: Medium,0.012,0.082,0.0,-0.14872,0.17272
+Dual-driver advanced,,,,,,,,,Overall NbS,Income: High,0.143,0.142,0.0,-0.13531999999999997,0.4213199999999999
+Dual-driver advanced,,,,,,,,,Individual NbS,Income: High,0.096,0.14,0.0,-0.17840000000000003,0.37040000000000006
+Dual-driver advanced,,,,,,,,,Collaborative NbS,Income: High,0.141,0.109,0.0,-0.07264000000000001,0.35463999999999996
+Dual-driver advanced,,,,,,,,,Overall NbS,Public funding,-0.053,0.081,0.0,-0.21176,0.10576000000000002
+Dual-driver advanced,,,,,,,,,Individual NbS,Public funding,-0.051,0.086,0.0,-0.21955999999999998,0.11756
+Dual-driver advanced,,,,,,,,,Collaborative NbS,Public funding,0.037,0.082,0.0,-0.12372,0.19772
+Dual-driver advanced,,,,,,,,,Overall NbS,Private funding,0.289,0.138,2.0,0.01851999999999998,0.55948
+Dual-driver advanced,,,,,,,,,Individual NbS,Private funding,0.22,0.127,1.0,-0.02892,0.46892
+Dual-driver advanced,,,,,,,,,Collaborative NbS,Private funding,0.07,0.089,0.0,-0.10443999999999998,0.24444
+Dual-driver advanced,,,,,,,,,Overall NbS,Age,0.006,0.003,2.0,0.00012000000000000031,0.01188
+Dual-driver advanced,,,,,,,,,Individual NbS,Age,0.007,0.003,3.0,0.0011200000000000003,0.012879999999999999
+Dual-driver advanced,,,,,,,,,Collaborative NbS,Age,0.0,0.002,0.0,-0.00392,0.00392
+Dual-driver advanced,,,,,,,,,Overall NbS,Gender,-0.056,0.076,0.0,-0.20495999999999998,0.09295999999999999
+Dual-driver advanced,,,,,,,,,Individual NbS,Gender,-0.125,0.079,0.0,-0.27984,0.029840000000000005
+Dual-driver advanced,,,,,,,,,Collaborative NbS,Gender,-0.029,0.067,0.0,-0.16032,0.10232

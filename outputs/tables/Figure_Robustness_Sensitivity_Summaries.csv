@@ -1,0 +1,51 @@
+﻿Outcome,Variable,Coef,SE,Stars,Lower,Upper,Figure,Dimensions,Clusters,Agreement,Separation,MinShare
+Overall NbS,Climate attribution: Partly,0.416,0.105,3.0,0.2102,0.6217999999999999,Dual-driver main-text robustness,,,,,
+Individual NbS,Climate attribution: Partly,0.414,0.116,3.0,0.18663999999999997,0.6413599999999999,Dual-driver main-text robustness,,,,,
+Collaborative NbS,Climate attribution: Partly,0.094,0.163,0.0,-0.22547999999999999,0.41347999999999996,Dual-driver main-text robustness,,,,,
+Overall NbS,Climate attribution: Mainly,0.344,0.117,3.0,0.11467999999999998,0.5733199999999999,Dual-driver main-text robustness,,,,,
+Individual NbS,Climate attribution: Mainly,0.347,0.127,3.0,0.09807999999999997,0.59592,Dual-driver main-text robustness,,,,,
+Collaborative NbS,Climate attribution: Mainly,0.08,0.164,0.0,-0.24144,0.40144,Dual-driver main-text robustness,,,,,
+Overall NbS,Exposure: Occasional,0.077,0.087,0.0,-0.09351999999999998,0.24751999999999996,Dual-driver main-text robustness,,,,,
+Individual NbS,Exposure: Occasional,0.107,0.095,0.0,-0.0792,0.2932,Dual-driver main-text robustness,,,,,
+Collaborative NbS,Exposure: Occasional,0.347,0.16,2.0,0.033399999999999985,0.6606,Dual-driver main-text robustness,,,,,
+Overall NbS,Exposure: Frequent,0.258,0.076,3.0,0.10904000000000003,0.40696,Dual-driver main-text robustness,,,,,
+Individual NbS,Exposure: Frequent,0.223,0.082,3.0,0.06228,0.38372,Dual-driver main-text robustness,,,,,
+Collaborative NbS,Exposure: Frequent,0.392,0.152,2.0,0.09408000000000005,0.68992,Dual-driver main-text robustness,,,,,
+Overall NbS,Income: Medium,0.127,0.08,0.0,-0.029799999999999993,0.2838,Dual-driver main-text robustness,,,,,
+Individual NbS,Income: Medium,0.145,0.084,1.0,-0.01964000000000002,0.30964,Dual-driver main-text robustness,,,,,
+Collaborative NbS,Income: Medium,0.012,0.082,0.0,-0.14872,0.17272,Dual-driver main-text robustness,,,,,
+Overall NbS,Income: High,0.143,0.142,0.0,-0.13531999999999997,0.4213199999999999,Dual-driver main-text robustness,,,,,
+Individual NbS,Income: High,0.096,0.14,0.0,-0.17840000000000003,0.37040000000000006,Dual-driver main-text robustness,,,,,
+Collaborative NbS,Income: High,0.141,0.109,0.0,-0.07264000000000001,0.35463999999999996,Dual-driver main-text robustness,,,,,
+Overall NbS,Public funding,-0.053,0.081,0.0,-0.21176,0.10576000000000002,Dual-driver main-text robustness,,,,,
+Individual NbS,Public funding,-0.051,0.086,0.0,-0.21955999999999998,0.11756,Dual-driver main-text robustness,,,,,
+Collaborative NbS,Public funding,0.037,0.082,0.0,-0.12372,0.19772,Dual-driver main-text robustness,,,,,
+Overall NbS,Private funding,0.289,0.138,2.0,0.01851999999999998,0.55948,Dual-driver main-text robustness,,,,,
+Individual NbS,Private funding,0.22,0.127,1.0,-0.02892,0.46892,Dual-driver main-text robustness,,,,,
+Collaborative NbS,Private funding,0.07,0.089,0.0,-0.10443999999999998,0.24444,Dual-driver main-text robustness,,,,,
+Overall NbS,Age,0.006,0.003,2.0,0.00012000000000000031,0.01188,Dual-driver main-text robustness,,,,,
+Individual NbS,Age,0.007,0.003,3.0,0.0011200000000000003,0.012879999999999999,Dual-driver main-text robustness,,,,,
+Collaborative NbS,Age,0.0,0.002,0.0,-0.00392,0.00392,Dual-driver main-text robustness,,,,,
+Overall NbS,Gender,-0.056,0.076,0.0,-0.20495999999999998,0.09295999999999999,Dual-driver main-text robustness,,,,,
+Individual NbS,Gender,-0.125,0.079,0.0,-0.27984,0.029840000000000005,Dual-driver main-text robustness,,,,,
+Collaborative NbS,Gender,-0.029,0.067,0.0,-0.16032,0.10232,Dual-driver main-text robustness,,,,,
+,,,,,,,Baseline-aligned sensitivity,2.0,2.0,0.2685468002210721,0.33741542645232697,0.4122137404580153
+,,,,,,,Baseline-aligned sensitivity,2.0,3.0,1.0,0.28086946071188235,0.13740458015267176
+,,,,,,,Baseline-aligned sensitivity,2.0,4.0,0.35387883263981745,0.41958516620848874,0.183206106870229
+,,,,,,,Baseline-aligned sensitivity,2.0,5.0,0.3306860388493621,0.4060862812369737,0.15267175572519084
+,,,,,,,Baseline-aligned sensitivity,3.0,2.0,0.1501996007984032,0.25197736980742785,0.26717557251908397
+,,,,,,,Baseline-aligned sensitivity,3.0,3.0,0.382248239537986,0.2810874112969018,0.16030534351145037
+,,,,,,,Baseline-aligned sensitivity,3.0,4.0,0.3212151381495593,0.317578744646817,0.16030534351145037
+,,,,,,,Baseline-aligned sensitivity,3.0,5.0,0.40328674688113403,0.31046464603388074,0.13740458015267176
+,,,,,,,Baseline-aligned sensitivity,4.0,2.0,0.2964805019027614,0.27379125955139016,0.2900763358778626
+,,,,,,,Baseline-aligned sensitivity,4.0,3.0,0.31657211615493386,0.22539593861338056,0.2900763358778626
+,,,,,,,Baseline-aligned sensitivity,4.0,4.0,0.31657211615493386,0.23026266838000556,0.17557251908396945
+,,,,,,,Baseline-aligned sensitivity,4.0,5.0,0.2695690720117165,0.2660438161226159,0.1297709923664122
+,,,,,,,Baseline-aligned sensitivity,5.0,2.0,0.2055922457156403,0.23493551392851447,0.32061068702290074
+,,,,,,,Baseline-aligned sensitivity,5.0,3.0,0.2569313461637259,0.19469943824066324,0.26717557251908397
+,,,,,,,Baseline-aligned sensitivity,5.0,4.0,0.2569313461637259,0.20423302993039333,0.1984732824427481
+,,,,,,,Baseline-aligned sensitivity,5.0,5.0,0.26248808857376504,0.23290387645065744,0.11450381679389313
+,,,,,,,Baseline-aligned sensitivity,6.0,2.0,0.2055922457156403,0.2078897479990589,0.32061068702290074
+,,,,,,,Baseline-aligned sensitivity,6.0,3.0,0.17911945356964193,0.19449735460252174,0.32061068702290074
+,,,,,,,Baseline-aligned sensitivity,6.0,4.0,0.2060953153258953,0.21470561969390276,0.11450381679389313
+,,,,,,,Baseline-aligned sensitivity,6.0,5.0,0.2060953153258953,0.1909620812925126,0.11450381679389313
