@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-title: "UK Nature-based Solutions Farmer Survey — Article I analysis package"
-message: "If you use this analysis package, please cite the Article I manuscript."
+title: "Dual-driver-framework-data"
+message: "If you use this analysis package, please cite the associated paper."
 type: software
 authors:
-  - name: "King's College London NbS survey team"
+  - name: "Katie Manning"
 date-released: "2026-09-17"
 version: "1.0.0"
 license: MIT
