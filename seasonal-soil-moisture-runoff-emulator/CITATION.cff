@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Seasonal Soil Moisture and Runoff Emulator for Great Britain"
+message: "If you use this code, please cite the repository and the associated Zenodo dataset."
+type: software
+authors:
+  - family-names: "Rui"
+    given-names: "Jin"
+    affiliation: "King's College London"
+version: "1.0.0"
+date-released: "2026-06-21"
+license: "MIT"
+repository-code: "https://github.com/JinRuii/seasonal-soil-moisture-runoff-emulator"
+doi: "10.5281/zenodo.20788083"
+keywords:
+  - soil moisture
+  - runoff
+  - emulator
+  - hydrology
+  - CHESS
+  - UKCP18
+  - G2G
+  - EURO-CORDEX
+  - CDS
